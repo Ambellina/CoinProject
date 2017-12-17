@@ -17,6 +17,7 @@ html, body { background: #333; }
 .coin  img      { max-width: 100%; max-height: 100%; }
 .flag  img      { outline: #ccc 1px solid; }
 .mine           { background: #005733; }
+.acquired       { background: #abcdef; }
 .purchased      { background: #dd650f; }
 .bid            { background: #ddbb0f; }
 
